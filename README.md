@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في ليل الظلام
+> تعالي لصدري نعيش الغرام
+> عيونك تسافر بقلبي بعيد
+> أضيع بهواك وعشقي يزيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
