@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Kalam Mosh Hyeghayer |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kalam-mosh-hyeghayer/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في ليل الظلام
+> تعالي لصدري نعيش الغرام
+> عيونك تسافر بقلبي بعيد
+> أضيع بهواك وعشقي يزيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
