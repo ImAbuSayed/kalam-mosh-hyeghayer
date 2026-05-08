@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalam Mosh Hyeghayer
+
+This log tracks the cryptographic history and versioning for the song **Kalam Mosh Hyeghayer** (kalam-mosh-hyeghayer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:18:26.194890 | `v1` | `22e4f0ac3554de430ba28d3aa2fca417dcaa3efd5297311a0a072935f0e080ec` | `375b0ebdbd4d00611e5bee953d712c22bb83180f398fe439b997983428bb2543` | `2026-05-08_kalam-mosh-hyeghayer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
